@@ -74,15 +74,6 @@ body{
   transition: 300ms;
    }
 
-.ul span{
-  font-family: 'Abril Fatface', cursive;
-  font-size: 3.0rem;
-  color: yellow;
-  position: absolute;
-  top: -40px;
-  left: 50%;
-  transform: translateX(-50%);
-}
 .ul a{
   display: block;
   }
@@ -114,6 +105,15 @@ body{
   font-weight: 600;
   color: white;
   background-color: rgb(0,0,0,0.7);
+}
+.ul span{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 3.0rem;
+  color: yellow;
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 }
 .footer{
