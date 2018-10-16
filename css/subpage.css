@@ -158,6 +158,26 @@ body{
   }
   
 
+.text{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.container{
+  margin: 0;}
 
+  .ul{
+    background-color: #181818;
+    padding: 20px 120px;
+  }
+  .box{
+    margin: 80px 30px;
+    min-height: 280px;
+  }
+  .wrapper{
+  padding: 0;
+  margin-bottom: 100px;
+  margin-top: 0;
+  }
   
 }
