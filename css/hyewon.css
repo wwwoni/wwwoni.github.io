@@ -106,7 +106,7 @@ body{
   color: white;
   background-color: rgb(0,0,0,0.7);
 }
-.li span{
+.ul span{
   font-family: 'Abril Fatface', cursive;
   font-size: 3.0rem;
   color: yellow;
